@@ -5,9 +5,9 @@ Create Login Page Android App using Linear Layout, Button, TextView, and EditTex
 
 ## Features
 View and Viewgroup
-- Use of Button Login
+- Use Button Login
 - Toast display Successful Login
-- Use of TextView and EditText
+- Use TextView and EditText
 
 ## Usage
 Login Page
