@@ -1,7 +1,7 @@
 # Android UI and UI Case Study
 
 ## Overview
-Create Login Page Android App using Linear Layout, Button, TextView, and EditText
+Create Login Page Android App using Linear Layout, Button, TextView and EditText
 
 ## Features
 View and Viewgroup
