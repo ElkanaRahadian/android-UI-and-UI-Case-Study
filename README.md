@@ -10,7 +10,7 @@ Using View and Viewgroup :
 - Use TextView and EditText
 
 ## Usage
-Example Login Page :
+Login Page :
 
 ![Screenshot_Login Page](https://user-images.githubusercontent.com/56164259/68088233-646aa580-fe8f-11e9-8735-e5fb469e8642.png)
 
